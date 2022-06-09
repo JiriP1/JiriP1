@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning kokot language
 -
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me phub/profile/JiripSins.com
+- 📫 How to reach me ...
 -
 
 <!---
